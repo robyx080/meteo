@@ -47,7 +47,8 @@
   border-radius: 50%;
   font-size: 18px;
   margin: auto;
-
+  outline: none;
+  border: none; 
 }
 
 .weatherImg{
