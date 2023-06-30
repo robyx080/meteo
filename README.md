@@ -1,7 +1,7 @@
 <h1 align="center">
-    <img alt="pokeball"  src="src/image/sunny.png" style="height: 30px; width: 30px;"> 
+    <img alt="sunny"  src="src/image/sunny.png" style="height: 30px; width: 30px;"> 
     Weather App with react.js, Api OpenWeatherMap, Bootstrap 
-    <img alt="pokeball"  src="src/image/sunny.png" style="height: 30px; width: 30px;">
+    <img alt="sunny"  src="src/image/sunny.png" style="height: 30px; width: 30px;">
 </h1>
 <p align="center">
   <a href="#about-the-project">About The Project</a> |
